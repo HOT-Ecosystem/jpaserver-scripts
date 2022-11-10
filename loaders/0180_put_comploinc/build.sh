@@ -1,0 +1,2 @@
+# TODO: get the latest (a) OWL, or (b) pre-converted FHIR JSON. 'b' doesn't yet exist. 'a' needs to be parsed out of the date (format: vYYYY-MM-DD) of the latest version from releases, e.g.: https://github.com/loinc/comp-loinc/releases/download/v2022-11-05/merged_reasoned_loinc.owl
+# - for now, I've done a pre-conversion: https://github.com/joeflack4/comploinc-on-fhir/releases/download/latest/comploinc-minified.fhir.json

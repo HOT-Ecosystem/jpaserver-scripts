@@ -2,6 +2,7 @@
 #
 # load.sh for mondo
 # looks for  files named <resource>_<ontology>.json, in this directory
+# TODO: Possibly get from: https://github.com/joeflack4/mondo-on-fhir/releases/download/latest/mondo-minified.fhir.json
 
 # Ex. CodeSystem-mondo.json
 #set -x

@@ -4,6 +4,7 @@ set -euo pipefail
 # Super basic download and convert MONDO to FHIR for load
 # Names the output file in accordance with want the load.sh
 #  script expects.
+# TODO: Possibly get from: https://github.com/joeflack4/mondo-on-fhir/releases/download/latest/mondo-minified.fhir.json
 
 # See http://stackoverflow.com/questions/getting-the-source-directory-of-a-bash-script-from-within
 SOURCE="${BASH_SOURCE[0]}"
